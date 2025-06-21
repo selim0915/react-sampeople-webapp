@@ -5,7 +5,7 @@
 /* eslint-disable react/prop-types */
 import { Text } from 'grommet';
 import React from 'react';
-import { timeFormatter } from '../utils/utils';
+import { timeFormatter } from '../utils/utils.ts';
 import { Section } from './Section';
 import { Table } from './Table';
 
